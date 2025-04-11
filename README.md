@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ARVIND VIKRAM M S</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m proficient in **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvindvikram06/arvindvikram06](https://github.com/arvindvikram06/arvindvikram06)
 
